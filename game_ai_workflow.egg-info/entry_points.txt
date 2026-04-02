@@ -1,0 +1,2 @@
+[console_scripts]
+game-workflow = app.main:main
